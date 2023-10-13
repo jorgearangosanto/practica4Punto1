@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+    <item
+        android:id="@+id/navigation_batman"
+        android:title="@string/Batmanname"/>
+
+
+    <item
+        android:id="@+id/navigation_flash"
+        android:title="@string/Flash_name" />
+
+    <item
+        android:id="@+id/navigation_superman"
+        android:title="@string/Superman_name" />
+    <item
+        android:id="@+id/navigation_wonder_womn"
+        android:title="@string/Wonderwoman_name" />
+    </group>
+
+</menu>
